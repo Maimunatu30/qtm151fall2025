@@ -1,0 +1,5 @@
+type(3)
+type(3.25)
+type("hello world!")
+
+print(type(3))
